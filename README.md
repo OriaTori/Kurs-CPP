@@ -6,11 +6,11 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 ### Pre-work
 - [X] Linux installation on own laptop
 - [X] Software installation
-  - git
-  - gitk lub gitg
+  [x] git
+  [x] gitk lub gitg
   - make
   - cmake
-  - vim
+  [x] vim
   - g++ lub clang++
   - gdb
   - valgrind
