@@ -21,8 +21,8 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 
 ### Post-work (deadline: 20.01.2019)
 - [ ] Sforkuj [repozytorium modern_cpp](https://github.com/LordLukin/modern_cpp) (przycisk Fork na GitHub). Spowoduje to skopiowanie projektu na twoje konto GitHuba. Napisz poprawny Makefile do tego projektu, który wykorzystuje zmienne. Wkomituj go i udostępnij na GitHubie, zrób Pull Requesta. [Przydatny link](http://mrbook.org/blog/tutorials/make/)
-- [ ] Posłuchaj [podcastu o Scrumie](http://mariuszchrapko.com/jak-scrum-wplywa-na-efektywnosci-zespolu/)
-- [ ] Zrób [test Narzędzia programisty](https://goo.gl/forms/EQurphnqBaOG20U32)
+- [X] Posłuchaj [podcastu o Scrumie](http://mariuszchrapko.com/jak-scrum-wplywa-na-efektywnosci-zespolu/)
+- [X] Zrób [test Narzędzia programisty](https://goo.gl/forms/EQurphnqBaOG20U32)
 
 ### Pre-work for the next lesson (deadline 15.01.2019)
 - [X] Obejrzyj [wideo jak działa alokacja pamięci](https://www.youtube.com/watch?v=CSVRA4_xOkw)
@@ -83,7 +83,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
   Ściągę wrzuć na Discorda podziel się nią z grupą. Reszta grupy da komentarze, czy wszystko jest jasne czy nie. **Termin: 29.01.2019**.
 
 ### Pre-work for the next week (deadline: 21.01.2019)
-- [ ] Zapoznaj sie bardzo ogólnie z dokumentacja C++: http://en.cppreference.com/w/
+- [X] Zapoznaj sie bardzo ogólnie z dokumentacja C++: http://en.cppreference.com/w/
 - [ ] Przeczytaj artykuł mojego kolegi Marcina Pietraszka o złożoności obliczeniowej: http://www.samouczekprogramisty.pl/podstawy-zlozonosci-obliczeniowej/
 - [ ] Zapoznaj sie dokładniej z opisem kontenerów: http://en.cppreference.com/w/cpp/container
 - [ ] Playlista na YT odnośnie STLa: https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb - obejrzyj ile mozesz :)
