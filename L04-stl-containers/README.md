@@ -4,10 +4,10 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
 ## 21.01.2019 STL - kontenery
 
 ### Pre-work 
-- [ ] Zapoznaj sie bardzo ogólnie z dokumentacją C++: http://en.cppreference.com/w/
-- [ ] Przeczytaj [artykuł mojego kolegi Marcina Pietraszka o złożoności obliczeniowej](http://www.samouczekprogramisty.pl/podstawy-zlozonosci-obliczeniowej/)
-- [ ] Zapoznaj sie dokładniej z [opisem kontenerów na cppreference.com](http://en.cppreference.com/w/cpp/container)
-- [ ] [Playlista na YT odnośnie STLa](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - obejrzyj ile mozesz :)
+- [X] Zapoznaj sie bardzo ogólnie z dokumentacją C++: http://en.cppreference.com/w/
+- [X] Przeczytaj [artykuł mojego kolegi Marcina Pietraszka o złożoności obliczeniowej](http://www.samouczekprogramisty.pl/podstawy-zlozonosci-obliczeniowej/)
+- [X] Zapoznaj sie dokładniej z [opisem kontenerów na cppreference.com](http://en.cppreference.com/w/cpp/container)
+- [X] [Playlista na YT odnośnie STLa](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - obejrzyj ile mozesz :)
 
 ### Materials
 - [Dokumentacja C++ (cppreference.com)](https://en.cppreference.com/)
@@ -22,7 +22,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
   <img src="cache.jpg" width="250px"> <img src="vector.jpg" width="250px">
 
 ### Post-work
-- [ ] Obejrzyj 2 filmy o złożoności obliczeniowej: https://www.youtube.com/watch?v=v4cd1O4zkGw, https://www.youtube.com/watch?v=MyeV2_tGqvw
+- [X] Obejrzyj 2 filmy o złożoności obliczeniowej: https://www.youtube.com/watch?v=v4cd1O4zkGw, https://www.youtube.com/watch?v=MyeV2_tGqvw
 
 - [ ] Projekt grupowy. Termin na **środę 30.01** do końca dnia, aby inne grupy mogły jeszcze sprawdzić wam kod. Jeśli nie uda się dostarczyć wszystkiego na czas, to musicie pokazać to co macie, a potem po czasie kontynuujcie i dostarczcie resztę.
   W grupach 3-4 osobowych rozwińcie projekt bazy danych studentów o następujace wymagania:
@@ -44,7 +44,7 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
   UWAGA: Zwracajcie uwagę na formatowanie kodu. Powinno być jednolite. W szczególności nie komitujcie tabów zamiast spacji, bo to od razu widać na GitHubie.
   Jeśli utkniecie albo chcecie sprawdzić zgodność z wymaganiami zajrzyjcie do [Checklisty](checklist.md)
 
-- [ ] Sprawdzenie projektów grupowych innym grupom - obowiązkowo informacja zwrotna (wystawione Issues na GitHubie lub komentarze do kodu na Discordzie lub krótkie OK, gdy wszystko w porządku) - termin na **piątek 01.02** do końca dnia, aby zasugerowane poprawki można jeszcze było nanieść
+- [X] Sprawdzenie projektów grupowych innym grupom - obowiązkowo informacja zwrotna (wystawione Issues na GitHubie lub komentarze do kodu na Discordzie lub krótkie OK, gdy wszystko w porządku) - termin na **piątek 01.02** do końca dnia, aby zasugerowane poprawki można jeszcze było nanieść
 
 - [ ] Zrób ściągawkę na jeden z poniższych tematów do wyboru. Obowiązkowo daj w niej przykłady kodu:
   - stos i sterta
@@ -57,8 +57,8 @@ Materials from C++ Course at Coders School (January 2019 - March 2019)
   Wybrany temat **zaznacz pogrubieniem**
   Ściągę wrzuć na Discorda podziel się nią z grupą. Reszta grupy da komentarze, czy wszystko jest jasne czy nie. **Termin: 29.01.2019**.
 
-- [ ] Opcjonalnie zrób [test Podstawy C++](https://goo.gl/forms/SkTtLHKSW6mWHYE13)
+- [X] Opcjonalnie zrób [test Podstawy C++](https://goo.gl/forms/SkTtLHKSW6mWHYE13)
 
 ### Pre-work for the next classes
-- [ ] Zapoznaj się ze [ściągawką o polimorfiźmie](polimorfizm.pdf). Przyda się to też w projekcie grupowym.
+- [X] Zapoznaj się ze [ściągawką o polimorfiźmie](polimorfizm.pdf). Przyda się to też w projekcie grupowym.
 
